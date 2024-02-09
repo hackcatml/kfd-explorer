@@ -24,6 +24,21 @@ If it cannot attach, try running Xcode briefly.
 
 ## Screenshots
 
+## Build kfund-gadget.ipa
+```
+# Git clone kfund
+git clone https://github.com/wh1te4ever/kfund
+
+# Replace ContentView.swift
+Replace the ContentView.swift in kfund with the one in the kfundfiles directory
+
+# Include frida-gadget
+Put frida-gadget-16.1.11.dylib, frida-gadget-16.1.11.config in the kfund project
+
+# Build
+Open kfund > Build Phases > Copy Bundle Resources > add frida-gadget-16.1.11.dylib, frida-gadget-16.1.11.config.
+Build
+```
 
 ## Credits
 [kfund](https://github.com/wh1te4ever/kfund)<br>
