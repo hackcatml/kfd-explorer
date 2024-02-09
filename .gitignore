@@ -1,0 +1,8 @@
+venv
+.DS_Store
+test.py
+__pycache__
+.idea
+test
+ui_test.py
+ui_test.ui
