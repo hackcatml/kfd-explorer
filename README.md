@@ -23,6 +23,9 @@ cd kfd-explorer
 If it cannot attach, try running Xcode briefly.
 
 ## Screenshots
+![image](https://github.com/hackcatml/kfd-explorer/assets/75507443/403e617f-b252-4829-ae55-cb324829e696)
+![image](https://github.com/hackcatml/kfd-explorer/assets/75507443/6cf60086-bd89-41f0-a7d1-4af699db3441)
+![image](https://github.com/hackcatml/kfd-explorer/assets/75507443/011b1d7d-ed99-4051-ba83-72dc86145d1b)
 
 ## Build kfund-gadget.ipa
 ```
